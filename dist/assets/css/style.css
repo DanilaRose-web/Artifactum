@@ -1,0 +1,20 @@
+@import 'fonts.css';
+
+body {
+    font-family: 'TT Norms', sans-serif;
+    position: relative;
+}
+
+a:hover, a:focus, a:active, a {
+    text-decoration: none;
+    outline: none;
+}
+
+input:hover, input:focus, input:active, input, button:hover, button:focus, button:active, button {
+    border: none;
+    outline: none;
+}
+
+.container-fluid {
+    max-width: 1214px;
+}
