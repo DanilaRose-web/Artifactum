@@ -1,0 +1,9 @@
+Разбор шаблона по секциям и компонентам (в скринах):
+
+    0. https://prnt.sc/vkl6f0 - header
+    1. https://prnt.sc/vkl6yd - section main
+    2. https://prnt.sc/vkl0jn - section about
+    3. https://prnt.sc/vkl1gx - section advantages
+    4. https://prnt.sc/vkl32l - section share
+    5. https://prnt.sc/vkl46h - section bun
+    6. https://prnt.sc/vkl5db - footer
